@@ -63,10 +63,9 @@ Detecting bias in AI - 50 mins
 
 Wrap up and Q&A - 15 minutes
 
-## Testing ChatCPT 4
+## Testing Generative Pre-trained Transformer (GPT) models
 
-Testing a Generative Pre-trained Transformer (GPT) model like ChatGPT
-for bias is an important aspect of ensuring that the AI is fair,
+Testing models like ChatGPT for bias is an important aspect of ensuring that the AI is fair,
 ethical, and reliable. Bias in AI models can stem from various sources,
 primarily from the data they were trained on. 
 
