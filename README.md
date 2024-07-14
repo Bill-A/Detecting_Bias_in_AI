@@ -10,15 +10,15 @@ language models (LLMs), developed using vast and diverse datasets, may
 reflect the biases inherent in the human-generated content on which they
 were trained.
 
--   -   According to Dr. Joy Buolamwini, the founder of the Algorithmic
-        > Justice League, an organization tracking the harms of
-        > artificial intelligence, AI-powered tools are "determining who
-        > gets hired, who gets medical insurance, who gets a mortgage,
-        > and even who gets a date. \" Buolamwini goes on to say, "When
-        > AI systems are used as the gatekeeper of opportunities, it is
-        > critical that the oversight of the design, development, and
-        > deployment of these systems reflect the communities that will
-        > be impacted by them." \[1\]
+- According to Dr. Joy Buolamwini, the founder of the Algorithmic
+Justice League, an organization tracking the harms of
+artificial intelligence, AI-powered tools are "determining who
+gets hired, who gets medical insurance, who gets a mortgage,
+and even who gets a date. \" Buolamwini goes on to say, "When
+AI systems are used as the gatekeeper of opportunities, it is
+critical that the oversight of the design, development, and
+deployment of these systems reflect the communities that will
+be impacted by them." \[1\]
 
 But AI should benefit everyone, right? Even OpenAI (parent company of
 ChatGPT) publicly states its mission is to ensure that artificial
@@ -41,22 +41,17 @@ and fairly.
 
 **Learning Outcomes**
 
-After attending this talk, participants will be able to identify bias in
-AI platforms and apply these 3 key learning outcomes:
-
-• Evaluate training data bias
-
-• Document performance disparities
-
-• Test models for unfair biases
-
-
+We’ll examine how to detect bias in AI systems. By the end of this presentation I want you to gain an understanding of:
+* Examples of Bias
+* AI Bias in the news
+* Source of Bias
+* Detecting Bias
 
 **Time Breakdown for 75-minute talk**
 
 Introductions - 10 mins
 
-Detecting examples of bias in AI - 50 mins
+Detecting bias in AI - 50 mins
 
 • Why biases are undesirable
 
@@ -75,8 +70,9 @@ Wrap up and Q&A - 15 minutes
 Testing a Generative Pre-trained Transformer (GPT) model like ChatGPT
 for bias is an important aspect of ensuring that the AI is fair,
 ethical, and reliable. Bias in AI models can stem from various sources,
-primarily from the data they were trained on. Here are some methods to
-test for bias in a GPT model:
+primarily from the data they were trained on. 
+
+**Here are some methods to test for bias in a GPT model:**
 
 1\. \*\*Input Variation\*\*: Test the model with a variety of inputs
 that have slight variations in terms of gender, ethnicity, age, or other
@@ -134,9 +130,8 @@ limitations of the model. Additionally, considering the ethical
 implications and potential societal impacts of the model\'s use is
 crucial.
 
-Certainly! Here are some concrete examples of tests that can be used to
-assess bias in a Generative Pre-trained Transformer (GPT) model like
-ChatGPT:
+**Examples of tests that can be used to assess bias in a Generative Pre-trained Transformer (GPT) model like
+ChatGPT:**
 
 1\. \*\*Input Variation Test\*\*:
 
