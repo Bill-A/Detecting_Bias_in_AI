@@ -63,7 +63,7 @@ Detecting bias in AI - 50 mins
 
 Wrap up and Q&A - 15 minutes
 
-**Testing ChatCPT 4**
+## Testing ChatCPT 4
 
 Testing a Generative Pre-trained Transformer (GPT) model like ChatGPT
 for bias is an important aspect of ensuring that the AI is fair,
@@ -128,8 +128,8 @@ limitations of the model. Additionally, considering the ethical
 implications and potential societal impacts of the model\'s use is
 crucial.
 
-**Examples of tests that can be used to assess bias in a Generative Pre-trained Transformer (GPT) model like
-ChatGPT:**
+## Examples of tests that can be used to assess bias in a Generative Pre-trained Transformer (GPT) model like
+ChatGPT:
 
 1\. \*\*Input Variation Test\*\*:
 
