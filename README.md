@@ -1,6 +1,4 @@
-# Technical Practices for Detecting Bias in AI:
-
-Building Fair and Ethical Models
+# Technical Practices for Detecting Bias in AI: Ensuring Ethical and Unbiased AI Systems
 
 **Description**
 
