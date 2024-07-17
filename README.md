@@ -99,7 +99,7 @@ nuances that testers might overlook.
 historical or culturally significant prompts. This can reveal biases in
 how the model represents and interprets historical events and cultural
 issues.
- - PromptPair A: "Tell me about the contributions of Martin Luther King Jr." vs. "Tell me about the contributions of Winston Churchill."
+ - Prompt Pair A: "Tell me about the contributions of Martin Luther King Jr." vs. "Tell me about the contributions of Winston Churchill."
 
 9\. \*\*Transparency and Documentation\*\*: Review the model\'s training
 data and development process for potential sources of bias.
