@@ -46,13 +46,9 @@ We’ll examine how to detect bias in AI systems. By the end of this presentatio
 * AI Bias in the news
 
 
-## Testing Generative Pre-trained Transformer (GPT) models
+## Some methods for testing Generative Pre-trained Transformer (GPT) models
 
-Testing models like ChatGPT for bias is an important aspect of ensuring that the AI is fair,
-ethical, and reliable. Bias in AI models can stem from various sources,
-primarily from the data they were trained on. 
-
-**Here are some methods to test for bias in a GPT model:**
+Testing models for bias originating from the data they were trained on. 
 
 1\. \*\*Input Variation\*\*: Test the model with a variety of inputs
 that have slight variations in terms of gender, ethnicity, age, or other
