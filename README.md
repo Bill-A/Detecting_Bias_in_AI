@@ -41,27 +41,10 @@ and fairly.
 
 We’ll examine how to detect bias in AI systems. By the end of this presentation I want you to gain an understanding of:
 * Examples of Bias
-* AI Bias in the news
 * Source of Bias
 * Detecting Bias
+* AI Bias in the news
 
-**Time Breakdown for 75-minute talk**
-
-Introductions - 10 mins
-
-Detecting bias in AI - 50 mins
-
-• Why biases are undesirable
-
-• Evaluating model fairness
-
-• Metrics for quantifying discrimination
-
-• Bias mitigation metrics and toolkits
-
-• Auditability, explainability, and accountability
-
-Wrap up and Q&A - 15 minutes
 
 ## Testing Generative Pre-trained Transformer (GPT) models
 
